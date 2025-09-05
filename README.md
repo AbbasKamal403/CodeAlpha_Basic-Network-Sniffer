@@ -31,4 +31,4 @@ The goal of this task is to build a **basic network sniffer in Python** to captu
 
 
 ## 📸 Sample Output
-![Sample Output](Screenshot 2025-09-05 170642.png)
+![Sample Output](Screenshot.png)
