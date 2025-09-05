@@ -1,5 +1,7 @@
 # 🕵️‍♂️ CodeAlpha Basic Network Sniffer
 Basic Network Sniffer project for **CodeAlpha Cybersecurity Internship (Task 1)** — captures and analyzes live packets using Python and Scapy.
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+
 
 ---
 
