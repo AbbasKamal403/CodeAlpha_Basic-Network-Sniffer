@@ -1,7 +1,20 @@
-# 🕵️‍♂️ CodeAlpha Basic Network Sniffer
+# 🕵️‍♂️ CodeAlpha Basic Network Sniffer  
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)  
+
 Basic Network Sniffer project for **CodeAlpha Cybersecurity Internship (Task 1)** — captures and analyzes live packets using Python and Scapy.
 
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+----
+
+## 📑 Table of Contents
+- [Project Overview](#-project-overview)
+- [Features](#-features)
+- [Files](#-files)
+- [Installation & Setup](#-installation--setup)
+- [Usage](#-usage)
+- [Sample Output](#-sample-output)
+- [Contributing](#-contributing)
+- [License](#-license)
+- [Contact](#-contact)
 
 
 ---
@@ -62,7 +75,7 @@ Packets will be displayed in the terminal in real-time.
 
 ## 📸 Sample Output
 
-![Terminal Output](Screenshot.png)
+![Terminal Output](screenshot.png)
 
 ---
 
@@ -77,8 +90,9 @@ Contributions are welcome!
 
 ---
 
-## 📜 License  
+## 📜 License
 This project is licensed under the [MIT License](LICENSE).
+
 
 ---
 
