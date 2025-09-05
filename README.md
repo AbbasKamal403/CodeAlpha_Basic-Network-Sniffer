@@ -28,3 +28,7 @@ The goal of this task is to build a **basic network sniffer in Python** to captu
 - Install dependencies:
   ```bash
   pip install scapy
+
+
+## 📸 Sample Output
+![Sample Output](screenshot.png)
